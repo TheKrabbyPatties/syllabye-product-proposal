@@ -6,10 +6,11 @@ Josh Brown, Kevin Danowski, Olivia Adamic, Logan Prasczewicz, Emilio Vilchis, Ke
 
 ## Credits
 - Credits to GitHub and GitPages for hosting the current repositories.
+- Credits to Azure for hosting the site.
 - Node.js and VSCode used for editing and commits.
 
 ## License
-Requires updating.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Execute Instructions
 Hosted through Azure as a webpage.
